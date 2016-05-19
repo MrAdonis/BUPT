@@ -1,0 +1,14 @@
+﻿  abc.cpp
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(86): warning C4551: 缺少参数列表的函数调用
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(88): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: 参见“getch”的声明
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(119): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(156): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(157): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1316): note: 参见“itoa”的声明
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(213): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+c:\users\administrator\desktop\tetris\tetris\tetris\tetris\abc.cpp(377): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdlib.h(1266): note: 参见“_sleep”的声明
+  Tetris.vcxproj -> C:\Users\Administrator\Desktop\Tetris\Tetris\Tetris\Debug\Tetris.exe
