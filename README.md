@@ -1,3 +1,3 @@
 # BUPT
-Beijing University of Posts and Telecommunications
+Beijing University of Posts and Telecommunications.
 I am a student of BUPT.
